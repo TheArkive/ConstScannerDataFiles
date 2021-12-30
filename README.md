@@ -1,2 +1,4 @@
 # ConstScannerDataFiles
-Data files for C++ Const Scanner
+Data files for ConstScanner
+
+https://github.com/TheArkive/ConstScanner
